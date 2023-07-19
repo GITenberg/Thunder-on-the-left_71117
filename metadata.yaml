@@ -1,0 +1,31 @@
+_repo: Thunder-on-the-left_71117
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morley, Christopher
+    alias: Morley, Christopher Darlington
+    birthdate: 1890
+    deathdate: 1957
+    gutenberg_agent_id: '109'
+    url: http://www.gutenberg.org/2009/agents/109
+    wikipedia: https://en.wikipedia.org/wiki/Christopher_Morley
+description: ''
+gutenberg_issued: '2023-07-04'
+identifiers:
+  gutenberg: '71117'
+language: en
+pgterms:marc904: https://archive.org/details/thunderonleft00morl/page/n7/mode/2up
+pgterms:marc905: 20210120183110morley
+pgterms:marc906: '1925'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bDoubleday, Page & Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Thunder on the left
+url: http://www.gutenberg.org/ebooks/71117
